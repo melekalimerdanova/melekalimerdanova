@@ -7,5 +7,5 @@
 <img src="![dev](https://github.com/user-attachments/assets/91935ed8-2f1a-4e25-bc5f-fe9d38dc17ab)
 "/>
 <p align="center">
-  <img src="dev.gif" width="300">
+  <img src="dev.gif.gif" width="300">
 </p>
