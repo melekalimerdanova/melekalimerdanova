@@ -50,6 +50,3 @@
 <div align="center">
   <img height="400" src="InMyZone.gif"  />
 </div>
-
-
----
